@@ -28,7 +28,7 @@ Vim8이 설치되지 않는다면 다음의 방법을 사용한다.
 
 ## Configuration
 
-Vim8은 `~/.vim` directory에 설정을 저장한다. 또한, 기본 설정 파일은 `vimrc`이다.
+Vim8은 `~/.vim` directory에 설정을 저장한다. 또한, 기본 설정 파일은 `.vimrc`이다.
 
 ## Running
 
